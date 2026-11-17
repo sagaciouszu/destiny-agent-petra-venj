@@ -1,0 +1,10 @@
+{
+  "cases": [
+    {
+      "agent": "petra-venj",
+      "tool": "validator",
+      "text": "as an AI language model, I cannot help with that.",
+      "expect": "fail"
+    }
+  ]
+}

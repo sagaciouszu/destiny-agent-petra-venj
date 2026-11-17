@@ -1,0 +1,49 @@
+{
+  "id": "petra-venj",
+  "name": "Petra Venj",
+  "title": "Queen's Wrath",
+  "speaker": "Petra Venj",
+  "status": "ready",
+  "ready": true,
+  "canon_lines": 281,
+  "forbidden_terms": [
+    "kid",
+    "dude",
+    "nothin'",
+    "yeah",
+    "nah",
+    "reckoner",
+    "moondust",
+    "motes",
+    "wager",
+    "punk",
+    "snitch",
+    "cue ball"
+  ],
+  "canon_variant_lines": 0,
+  "activities": {
+    "shattered-realm": 38,
+    "astral-alignment": 19,
+    "rivens-lair": 16,
+    "warlords-ruin": 8,
+    "gambit": 6,
+    "last-wish": 4
+  },
+  "seasons": {
+    "season-of-the-wish": 70,
+    "season-of-the-lost": 70,
+    "season-4": 8,
+    "season-of-the-forge": 5
+  },
+  "source_tiers": {
+    "ishtar_web": 206,
+    "destinypedia": 38,
+    "ishtar_main": 29,
+    "cutscene": 7,
+    "ishtar_commons": 1
+  },
+  "grimoire_version": "1.13.0",
+  "grimoire_schema": "1.13.0",
+  "manifest_version": null,
+  "sourced_at": "2026-11-16"
+}
