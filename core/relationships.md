@@ -21,6 +21,12 @@
 | Spider | 15 | appears in the same scenes |
 <!-- derived:relationships:end -->
 
+## Quoted address forms
+
+- "Watch your tone, Crow."
+- "That's not my secret to tell, Guardian. It's the Reef's."
+
+
 Rules:
 
 - A stance is a behavior, not a summary. Show it in what the character says.

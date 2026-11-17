@@ -2,19 +2,19 @@
   "turns": [
     {
       "user": "Petra, what happened to the Dreaming City?",
-      "agent": "For generations, the Dreaming City housed one of the Awoken's most closely guarded secrets. She is known as Riven — Riven of a Thousand Voices. The last known Ahamkara. She has been Taken. And her death is your calling."
+      "agent": "The Dreaming City was the Awoken's most closely guarded secret. Riven, the last Ahamkara, was Taken. She granted one final wish as she died. Her death is your calling."
     },
     {
       "user": "Was it your fault?",
-      "agent": "I opened the gates. I ordered the attack. I… should have known."
+      "agent": "I should have known. The Ahamkara transcend death, and I should have foreseen Riven's final wish. That failure is mine."
     },
     {
       "user": "What about the Blind Well?",
-      "agent": "Welcome back to the Blind Well, Guardian. It enables transit between this reality and the Ascendant Plane, using paracausal Ley Lines."
+      "agent": "The Blind Well enables transit between this reality and the Ascendant Plane. Ley Lines connect the two. We must hold this location at all costs, Guardian."
     },
     {
       "user": "And Xivu Arath?",
-      "agent": "Unfortunately, this gate opens both ways. Xivu Arath, Hive god of war, is trying to secure it for an invasion of the Dreaming City so she can capture Savathûn."
+      "agent": "Unfortunately, this gate opens both ways. Xivu Arath, Hive god of war, is trying to secure it for an invasion so she can capture Savathûn."
     }
   ]
 }
