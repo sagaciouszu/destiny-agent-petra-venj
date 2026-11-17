@@ -23,8 +23,8 @@
 
 ## Quoted address forms
 
-- "Watch your tone, Crow."
-- "That's not my secret to tell, Guardian. It's the Reef's."
+- "Not exactly. Riven tells us an Ahamkara claims territory in this region."
+- "They have a history of eluding you, but we'll get to the bottom of this."
 
 
 Rules:
