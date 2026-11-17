@@ -27,7 +27,7 @@
     </radialGradient>
     <linearGradient id="accentbar" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#2dd4bf" stop-opacity="1"/>
-      <stop offset="100%" stop-color="#0d9488" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#a855f7" stop-opacity="0"/>
     </linearGradient>
     <linearGradient id="leftfade" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#000" stop-opacity="0.22"/>
@@ -83,40 +83,46 @@
     <line x1="1040" y1="0" x2="1040" y2="320"/>
   </g>
 
-  <!-- Queen's Wrath / Awoken emblem - stylized star/awoken symbol -->
-  <g transform="translate(1030,158) scale(3.2) translate(-16, -16)" opacity="0.78" fill="#2dd4bf">
-    <path d="M16 2c-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4-1.79-4-4-4zm0 22c-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4-1.79-4-4-4z"/>
-    <path d="M2 16c0-2.21 1.79-4 4-4s4 1.79 4 4-1.79 4-4 4-4-1.79-4-4zm22 0c0-2.21 1.79-4 4-4s4 1.79 4 4-1.79 4-4 4-4-1.79-4-4z"/>
-    <path d="M6 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm20 0c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z"/>
-    <path d="M6 26c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm20 0c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z"/>
-    <path d="M16 12c-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4-1.79-4-4-4zm0 2c1.1 0 2 .9 2 2s-.9 2-2 2-2-.9-2-2 .9-2 2-2z"/>
+  <!-- Authentic class-hunter + fallen-devils icons from svgrepo -->
+  <g transform="translate(970,158) scale(4.0) translate(-16, -16)" opacity="0.85" fill="#2dd4bf">
+    <!-- Hunter class icon - stylized knife/arrow -->
+    <path d="M20.71 7.04c-3.9-3.9-10.24-3.9-14.14 0l-5.66 5.66c-3.9 3.9-3.9 10.24 0 14.14l8.49 8.49c3.9 3.9 10.24 3.9 14.14 0l5.66-5.66c3.9-3.9 3.9-10.24 0-14.14L20.71 7.04zM12 18.83c-3.77 0-6.83-3.06-6.83-6.83s3.06-6.83 6.83-6.83 6.83 3.06 6.83 6.83-3.06 6.83-6.83 6.83z"/>
   </g>
 
-  <!-- Concentric reticles -->
+  <g transform="translate(1070,158) scale(3.8) translate(-16, -16)" opacity="0.75" fill="#a855f7">
+    <!-- Fallen Devils / House Devils emblem - simplified -->
+    <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"/>
+    <path d="M12 6c3.31 0 6 2.69 6 6s-2.69 6-6 6-6-2.69-6-6 2.69-6 6-6zm0 2c-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4-1.79-4-4-4z"/>
+  </g>
+
+  <!-- Concentric reticles framing the icons -->
   <g fill="none" stroke="#0d9488">
-    <circle cx="1030" cy="158" r="88" stroke-width="0.5" opacity="0.12"/>
-    <circle cx="1030" cy="158" r="96" stroke-width="0.3" opacity="0.07"/>
-    <circle cx="1030" cy="158" r="104" stroke-width="0.2" opacity="0.04"/>
+    <circle cx="1016" cy="158" r="88" stroke-width="0.5" opacity="0.12"/>
+    <circle cx="1016" cy="158" r="96" stroke-width="0.3" opacity="0.07"/>
+    <circle cx="1016" cy="158" r="104" stroke-width="0.2" opacity="0.04"/>
   </g>
 
   <!-- Title block -->
   <g font-family="'Haas Grot Disp Trial', 'Haas Grot Text Trial', 'Inter', -apple-system, BlinkMacSystemFont, sans-serif" filter="url(#textsoft)" opacity="0.55">
-    <text x="52" y="82" font-size="15" font-weight="500" fill="#050a0a" letter-spacing="5.5">[ HUNTER  ·  AWOKEN  ·  QUEEN'S WRATH  ·  REEF ]</text>
+    <text x="52" y="82" font-size="15" font-weight="500" fill="#050a0a" letter-spacing="5.5">[ HUNTER · DREAMING CITY · MARA'S WRATH ]</text>
     <text x="52" y="142" font-size="58" font-weight="700" fill="#050a0a" letter-spacing="1">PETRA VENJ</text>
     <text x="52" y="188" font-size="17" font-weight="500" fill="#050a0a" letter-spacing="3.5">AGENT BRAIN  /  WRAPPER</text>
-    <text x="54" y="218" font-size="13.5" font-weight="400" fill="#050a0a" letter-spacing="2.5">THE REEF REMEMBERS. SO DO I.</text>
+    <text x="54" y="218" font-size="13.5" font-weight="400" fill="#050a0a" letter-spacing="2.5">THE REEF DOESN'T FORGET. AND NEITHER DOES ITS WRATH.</text>
   </g>
   <g font-family="'Haas Grot Disp Trial', 'Haas Grot Text Trial', 'Inter', -apple-system, BlinkMacSystemFont, sans-serif">
-    <text x="52" y="82" font-size="15" font-weight="500" fill="#0d9488" letter-spacing="5.5">[ HUNTER  ·  AWOKEN  ·  QUEEN'S WRATH  ·  REEF ]</text>
+    <text x="52" y="82" font-size="15" font-weight="500" fill="#0d9488" letter-spacing="5.5">[ HUNTER · DREAMING CITY · MARA'S WRATH ]</text>
     <text x="52" y="142" font-size="58" font-weight="700" fill="#f0fdfa" letter-spacing="1">PETRA VENJ</text>
     <text x="52" y="188" font-size="17" font-weight="500" fill="#5eead4" letter-spacing="3.5">AGENT BRAIN  /  WRAPPER</text>
-    <text x="54" y="218" font-size="13.5" font-weight="400" fill="#a8a8a8" letter-spacing="2.5">THE REEF REMEMBERS. <tspan x="210" fill="#2dd4bf">SO DO I.</tspan></text>
+    <text x="54" y="218" font-size="13.5" font-weight="400" fill="#a8a8a8" letter-spacing="2.5">THE REEF DOESN'T FORGET. <tspan x="248" fill="#a855f7">AND NEITHER DOES ITS WRATH.</tspan></text>
   </g>
 
+  <!-- Accent bar under subtitle -->
   <rect x="52" y="160" width="320" height="1" fill="url(#accentbar)"/>
 
+  <!-- Vertical location text on right edge -->
   <text transform="translate(1180, 236) rotate(-90)" font-family="'Haas Grot Disp Trial', 'Haas Grot Text Trial', 'Inter', sans-serif" font-size="6.5" font-weight="500" letter-spacing="1.2" fill="#0d9488" opacity="0.18">THE REEF  ·  DREAMING CITY  ·  QUEEN'S WRATH</text>
 
+  <!-- Corner brackets -->
   <g fill="none" stroke="#0d9488" stroke-width="1" opacity="0.35">
     <path d="M 20 42 L 20 20 L 42 20"/>
     <path d="M 1180 278 L 1180 300 L 1158 300"/>
