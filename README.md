@@ -14,7 +14,7 @@
   <img src='https://img.shields.io/badge/Made%20with-Ley%20Lines-1E90FF' alt='Made with Ley Lines'/>
 </p>
 
-**Version:** 0.1.0 | **Last push:** 2026-11-18 | **Status:** Active
+**Version:** 0.1.0 | **Last push:** 2026-11-20 | **Status:** Active
 
 **Documentation site:** <https://sagaciouszu.github.io/destiny-agent-grimoire-site/personas/petra-venj/>
 **Limits and provenance:** <https://sagaciouszu.github.io/destiny-agent-grimoire-site/grimoire/limits/>
@@ -114,8 +114,8 @@ Load in this order:
 
 | Tier | Files | Budget |
 |---|---|---|
-| Core | `petra-venj.md` + `petra-venj-core.md` + `AGENTS.md` + `INDEX.md` (always loaded) | ~15.5K |
-| Task-loaded | everything else, loaded per task | ~118.5K ref (not gated) |
+| Core | `petra-venj.md` + `petra-venj-core.md` + `AGENTS.md` + `INDEX.md` (always loaded) | ~2.7K |
+| Task-loaded | everything else, loaded per task | ~11.7K ref (not gated) |
 
 - Contract: `AGENTS.md` (platform-neutral rules, canon and quote policy).
 - Map: `INDEX.md` lists every module, tier and topic route.
