@@ -14,7 +14,7 @@
   <img src='https://img.shields.io/badge/Made%20with-Ley%20Lines-1E90FF' alt='Made with Ley Lines'/>
 </p>
 
-**Version:** 0.1.0 | **Last push:** 2026-11-20 | **Status:** Active
+**Version:** 0.1.1 | **Last push:** 2026-11-20 | **Status:** Active
 
 **Documentation site:** <https://sagaciouszu.github.io/destiny-agent-grimoire-site/personas/petra-venj/>
 **Limits and provenance:** <https://sagaciouszu.github.io/destiny-agent-grimoire-site/grimoire/limits/>
