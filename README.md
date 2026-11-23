@@ -131,7 +131,7 @@ petra-venj.md        # OpenCode entry point (YAML frontmatter)
 petra-venj-core.md   # consolidated brain (minimal tier)
 petra-venj-voice.md  # master voice reference
 core/             # 12 behavioral and state modules
-voice/            # 1 voice sub-file
+voice/            # 2 voice sub-files
 world/            # 3 worldbuilding files
 reference/        # 8 reference files (canon brief, quote index, knowledge web)
 setup.sh          # onboarding: memory templates plus lore bootstrap
